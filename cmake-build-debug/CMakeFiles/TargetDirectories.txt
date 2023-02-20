@@ -1,0 +1,3 @@
+/Users/sun/CLionProjects/algo2_cpp/cmake-build-debug/CMakeFiles/algo2_cpp.dir
+/Users/sun/CLionProjects/algo2_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sun/CLionProjects/algo2_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
